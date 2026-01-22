@@ -37,6 +37,7 @@ In [follow-up work](https://inspirehep.net/literature/2696154), we consider this
 We clarify that within the eikonal, semiclassical, and Born approximations the aforementioned tighter bounds are not possible within the regimes of validity of the respective approximations and the EFT itself.
   
 I've had the chance to give talks about this on the following occasions:
+
 - [String Phenomenology Online Seminar Series](https://www.youtube.com/watch?v=EpC5f9V8IZ0), Feb 2024
 - [Astrophysics Seminar](https://www.yukawa.kyoto-u.ac.jp/seminar/s53207?lang=en-GB), YITP Kyoto University, Nov 2023
 - Group Seminar, Kindai University, Nov 2023
@@ -48,7 +49,8 @@ I've had the chance to give talks about this on the following occasions:
 - [Copernicus Webinar series](https://indico.global/event/10033/contributions/95772/), Oct 2022
 - Gravity, YITP Kyoto University, Jun 2022
 - SCGSC 2022, University of Amsterdam, May 2022
-- Theory group PhD student seminar, Imperial College London, May 2022 
+- Theory group PhD student seminar, Imperial College London, May 2022
+ 
 For the most recent slides on this, see [here](../files/talks/causality_slides.pdf).
 
 ### Extremal black holes and branes
@@ -64,7 +66,7 @@ We clarify that the apparent UV sensitivity is not due to a breakdown of EFT, bu
 This is demonstrated by an example of a partial UV completion.
 We also discuss a speculative bound on EFT Wilson coefficients linked to the weak gravity conjecture.
 
-Precisely how the deformations behave near the horizon is determined by the AdS$_2$ scaling dimension of the perturbations within the near-horizon geometry of the extremal black holes.
+Precisely how the deformations behave near the horizon is determined by the $\text{AdS}_2$ scaling dimension of the perturbations within the near-horizon geometry of the extremal black holes.
 It turns out this quantity is also relevant for the severity of a classical instability of extremal black holes known as the Aretakis instability.
 In particular, it determines the number of transverse derivatives needed to see non-decay/blow-up of perturbations on the background geometry. 
 In [follow-up work](https://inspirehep.net/literature/2948339) with A. D. Kovacs, I argue that extremal black branes (extended versions of black holes in higher dimensions with non-compact horizons) also suffer from the Aretakis instability, making explicit use of the symmetries of the near-horizon geometry $\text{AdS}_{p+2} \times S^{D-p-2}$. 
@@ -81,6 +83,7 @@ Parallel to the previous discussion on deformations of extremal black holes, the
 It is also worth noting that the scaling dimensions also determine the behaviour of certain static deformations to the near-horizon geometry of extremal black branes. 
 
 I've had the chance to give talks about this on the following occasions:
+
 - GR24/Amaldi16, Glasgow, Jul 2025
 - [GAnG seminar](https://www.seresearch.qmul.ac.uk/cgag/events/4872/gang-seminar-calvin-chen-rescheduled-deformations-of-extremal-black-holes/), Queen Mary University London, Mar 2025
 - [Research seminar](https://www.youtube.com/watch?v=toqzB8xBpnw), ITMP Moscow State University, Dec 2024
@@ -88,6 +91,7 @@ I've had the chance to give talks about this on the following occasions:
 - UK Cosmomology Meeting/Ruth Fest, King's College London, May 2024
 - BritGrav24, Queen Mary University London, Apr 2024
 - [Gravity beyond Riemannian Paradigm 2025](https://sites.google.com/nyu.edu/gbrp2025/schedule-for-talks?authuser=0), Sogang Unviersity, Jun 2025
+
 For the most recent slides on this, see [here](../files/talks/branes_slides.pdf) and [here](../files/talks/extremality_slides.pdf).
 
 ### (Twisted) self-duality and (higher-spin) gauge fields
@@ -110,7 +114,9 @@ Of particular interest for this is the case $p=2$, which describes familiar line
 This provides a formulation of linearised gravity which exhibits manifest duality and covariance, which was previously thought not to be possible. 
 
 I've had the chance to give talks about this on the following occasions:
+
 - String Theory Seminar, National Taiwan University, Apr 2025
+
 For the most recent slides on this, see [here](../files/talks/democracy_slides.pdf).
 
 ### Discrete series scalar fields in $\text{(A)dS}_{2}$
@@ -118,12 +124,12 @@ For the most recent slides on this, see [here](../files/talks/democracy_slides.p
 It is well-known that conformal transformations and closely related to holomorphicity in two dimensions. 
 In particular, holomorphic operators such as the stress tensor in a CFT can be used to show holomorphic splitting of the classical phase space of solutions. 
 The prototypical example of this is the massless scalar field $\phi$ in two-dimensional flat space.
-This possess a pair of (anti-)holomorphic currents $j = \pp \phi$ and $\overline{j} = \overline{\partial}\phi$, which generate shifts of the scalar field by constants.
+This possess a pair of (anti-)holomorphic currents $j = \partial \phi$ and $\overline{j} = \overline{\partial}\phi$, which generate shifts of the scalar field by constants.
 In Lorentzian signature, the decomposition of the phase space is related to the familiar statement that the field in question is made up of non-interacting left- and right-moving waves propagating on the light cone.
 One might hence expect that, as soon as the theory is deformed by a mass term, the nice properties of the massless theory described above disappear. 
 
 In upcoming work with Lukas W. Lindwasser, I discuss the two-dimensional singletons studied above as a counter-example to this.
-In particular, these are massive scalar fields in (A)dS_2 with integer scaling dimensions $\Delta = k+1$, which are marked by the existence of a pair of (anti-)holomorphic higher-spin currents which generate extended shift symmetries. 
+In particular, these are massive scalar fields in $\text{(A)dS}_{2}$ with integer scaling dimensions $\Delta = k+1$, which are marked by the existence of a pair of (anti-)holomorphic higher-spin currents which generate extended shift symmetries. 
 We explore the consequences of this to describe their quantisation and subsets of their linear and non-linear symmetries.
 In particular, we point out that the theories admit mode expansions reminiscent of standard 2d CFTs in complex coordinates, with which we are able to construct operators implementing global conformal transformations and Virasoro symmetry. 
 We further leverage holomorphicity of the currents to show that the full set of symmetries of theories with $k>0$ is captured by a chiral algebra contained in the one of the massless theory. 
