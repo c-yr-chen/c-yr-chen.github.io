@@ -65,10 +65,10 @@ We clarify that the apparent UV sensitivity is not due to a breakdown of EFT, bu
 This is demonstrated by an example of a partial UV completion.
 We also discuss a speculative bound on EFT Wilson coefficients linked to the weak gravity conjecture.
 
-Precisely how the deformations behave near the horizon is determined by the $\text{AdS}_2$ scaling dimension of the perturbations within the near-horizon geometry of the extremal black holes.
+Precisely how the deformations behave near the horizon is determined by the $\text{AdS}_ {2}$ scaling dimension of the perturbations within the near-horizon geometry of the extremal black holes.
 It turns out this quantity is also relevant for the severity of a classical instability of extremal black holes known as the Aretakis instability.
 In particular, it determines the number of transverse derivatives needed to see non-decay/blow-up of perturbations on the background geometry. 
-In [follow-up work](https://inspirehep.net/literature/2948339) with A. D. Kovacs, I argue that extremal black branes (extended versions of black holes in higher dimensions with non-compact horizons) also suffer from the Aretakis instability, making explicit use of the symmetries of the near-horizon geometry $\text{AdS}_{p+2} \times S^{D-p-2}$. 
+In [follow-up work](https://inspirehep.net/literature/2948339) with A. D. Kovacs, I argue that extremal black branes (extended versions of black holes in higher dimensions with non-compact horizons) also suffer from the Aretakis instability, making explicit use of the symmetries of the near-horizon geometry $\text{AdS}_{p+2}\times S^{D-p-2}$. 
 To demonstrate that this class of extremal black branes suffers from this instability even in the absence of additional fields, we compute the Kaluza-Klein spectrum of gravitational and form field perturbations of the near-horizon geometry of these black branes.
 We find that these indeed trigger the Aretakis instability, although this is weaker than for the extremal black branes.
 
@@ -132,5 +132,5 @@ In particular, these are massive scalar fields in $\text{(A)dS}_{2}$ with intege
 We explore the consequences of this to describe their quantisation and subsets of their linear and non-linear symmetries.
 In particular, we point out that the theories admit mode expansions reminiscent of standard $2d$ CFTs in complex coordinates, with which we are able to construct operators implementing global conformal transformations and Virasoro symmetry. 
 We further leverage holomorphicity of the currents to show that the full set of symmetries of theories with $k>0$ is captured by a chiral algebra contained in the one of the massless theory. 
-This allows us to identify integrable deformations for $`k \leq 2`$. 
-We finally point out that a lack of integrable deformations for $`k>2`$ is a consequence of a known conjecture. 
+This allows us to identify integrable deformations for $k \leq 2$. 
+We finally point out that a lack of integrable deformations for $k>2$ is a consequence of a known conjecture. 
