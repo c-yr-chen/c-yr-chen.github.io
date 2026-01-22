@@ -10,6 +10,7 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     {% include analytics.html %}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" integrity="sha384-vKruj+YbOfeA61A6lHzsLmS7Ekf02ZkTxnid1dbP/HRWtros0lAyAy+TKhEBLXnJ" crossorigin="anonymous">
   </head>
 
   <body>
@@ -27,6 +28,9 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+
+    <script defer src="https://cdn.jsdelivr.net" integrity="sha384-0MgRed6U7VqfWvI5v2l2E+t9F3m9JtF+Yg+R+0lZ7U+z0s0oA/wQz+K" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net" integrity="sha384-FbvEKw8Wp0T+qPz9mB9bB3+1GZgQo8zD7Gz0v0o+Ww4P+0+w000=" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 
   </body>
 </html>
