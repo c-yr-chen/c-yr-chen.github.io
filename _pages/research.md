@@ -127,7 +127,7 @@ This possess a pair of (anti-)holomorphic currents $j = \partial \phi$ and $\ove
 In Lorentzian signature, the decomposition of the phase space is related to the familiar statement that the field in question is made up of non-interacting left- and right-moving waves propagating on the light cone.
 One might hence expect that, as soon as the theory is deformed by a mass term, the nice properties of the massless theory described above disappear. 
 
-In upcoming work with Lukas W. Lindwasser, I discuss the two-dimensional singletons studied above as a counter-example to this.
+In upcoming work with Lukas W. Lindwasser and Massimo Porrati, I discuss the two-dimensional singletons studied above as a counter-example to this.
 In particular, these are massive scalar fields in $\text{(A)dS}_{2}$ with integer scaling dimensions $\Delta = k+1$, which are marked by the existence of a pair of (anti-)holomorphic higher-spin currents which generate extended shift symmetries. 
 We explore the consequences of this to describe their quantisation and subsets of their linear and non-linear symmetries.
 In particular, we point out that the theories admit mode expansions reminiscent of standard $2d$ CFTs in complex coordinates, with which we are able to construct operators implementing global conformal transformations and Virasoro symmetry. 
