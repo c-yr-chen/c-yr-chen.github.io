@@ -82,14 +82,15 @@ Parallel to the previous discussion on deformations of extremal black holes, the
 It is also worth noting that the scaling dimensions also determine the behaviour of certain static deformations to the near-horizon geometry of extremal black branes. 
 
 I've had the chance to give talks about this on the following occasions:
+- Quantum Gravity and Cosmology, Bologna, Feb 2026 
 - JGRG34, YITP Kyoto University, Jan 2026
 - GR24/Amaldi16, Glasgow, Jul 2025
+- [Gravity beyond Riemannian Paradigm 2025](https://sites.google.com/nyu.edu/gbrp2025/schedule-for-talks?authuser=0), Sogang Unviersity, Jun 2025
 - [GAnG seminar](https://www.seresearch.qmul.ac.uk/cgag/events/4872/gang-seminar-calvin-chen-rescheduled-deformations-of-extremal-black-holes/), Queen Mary University London, Mar 2025
 - [Research seminar](https://www.youtube.com/watch?v=toqzB8xBpnw), ITMP Moscow State University, Dec 2024
 - [Theory Colloquium](https://www.imperial.ac.uk/events/179005/theoretical-physics-colloquium-sumer-jaitly-calvin-chen-tba/), Imperial College London, Jul 2024
 - UK Cosmomology Meeting/Ruth Fest, King's College London, May 2024
 - BritGrav24, Queen Mary University London, Apr 2024
-- [Gravity beyond Riemannian Paradigm 2025](https://sites.google.com/nyu.edu/gbrp2025/schedule-for-talks?authuser=0), Sogang Unviersity, Jun 2025
 
 For the most recent slides on this, see [here](../files/talks/branes_slides.pdf) and [here](../files/talks/extremality_slides.pdf).
 
@@ -120,10 +121,10 @@ For the most recent slides on this, see [here](../files/talks/democracy_slides.p
 
 ### Discrete series scalar fields in $\text{(A)dS}_{2}$
 
-It is well-known that conformal transformations and closely related to holomorphicity in two dimensions. 
+It is well-known that conformal transformations are closely related to holomorphicity in two dimensions. 
 In particular, holomorphic operators such as the stress tensor in a CFT can be used to show holomorphic splitting of the classical phase space of solutions. 
 The prototypical example of this is the massless scalar field $\phi$ in two-dimensional flat space.
-This possess a pair of (anti-)holomorphic currents $j = \partial \phi$ and $\overline{j} = \overline{\partial}\phi$, which generate shifts of the scalar field by constants.
+This possesses a pair of (anti-)holomorphic currents $j = \partial \phi$ and $\overline{j} = \overline{\partial}\phi$, which generate shifts of the scalar field by constants.
 In Lorentzian signature, the decomposition of the phase space is related to the familiar statement that the field in question is made up of non-interacting left- and right-moving waves propagating on the light cone.
 One might hence expect that, as soon as the theory is deformed by a mass term, the nice properties of the massless theory described above disappear. 
 
