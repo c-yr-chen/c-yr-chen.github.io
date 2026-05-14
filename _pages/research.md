@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 My research interests lie broadly in gravity and field theory, with a strong emphasis on formal theory. 
-Particular topics I have worked on include the effective field theory (EFT) of gravity, extremal black holes and black branes, aelectric-magnetic duality, and two-dimensional theories.  
+Particular topics I have worked on include the effective field theory (EFT) of gravity, extremal black holes and black branes, electric-magnetic duality, and two-dimensional theories.  
 
 What follows is a summary of my work, in roughly chronological order (so scroll down for my most recent work!).
 To see my latest publications, see [INSPIRE](https://inspirehep.net/authors/1993699).
@@ -96,22 +96,26 @@ For the most recent slides on this, see [here](../files/talks/branes_slides.pdf)
 
 ### (Twisted) self-duality and (higher-spin) gauge fields
 
-Maxwell theory in vacuum has a curious symmetry known as electromagnetic duality.
+Maxwell theory in vacuum has a curious symmetry known as electric-magnetic duality.
 Exchanging the electric and magnetic field exchanges the equation of motion and the Bianchi identity&mdash;this can be shown to be an off-shell symmetry, associated with a non-zero conserved charge.
 This is, in fact, also feature of a whole range of other theories, such as linearised gravity, higher-spin gauge fields, and p-form electrodynamics. 
-In all these cases, the (classical) equations of motion can be cast into so-called twisted self-duality relations, which resemble (anti-)self-duality relations that chiral fields satisfy. 
-These theories have in common that constructing actions with (twisted) self-duality as equations of motion typically come at the expense of manifest covariance.
+In all these cases, the (classical) equations of motion can be cast into so-called twisted self-duality relations.
+
+The twisted self-duality relations that theories with electric-magnetic duality satisfy is actually suggestive of a more general class of theories.
+In even $D=2p$ dimensions, one can consider fields strengths with height-$p$ window-type Young diagrams, which Hodge duality maps to dual field strengths of the same type.
+Such field strengths which satisfy self-duality relation as equations of motion are known as singletons: They have the special property that they are irreducible representations of the conformal algebra $\mathfrak{so}(2,2p)$.
+In Lorentzian signature, these correspond to chiral degrees of freedom and theories with EM duality in odd/even $p$ respectively.
+These theories have in common that their actions typically come at the expense of manifest covariance.
 Only relatively recently has it been realised that a natural covariant description of such theories comes from topological field theory in one higher dimension.
 
-In this context, a particularly interesting family of theories to study are the singletons. 
-These are topological field theories sitting special representations of the $\text{AdS}_{2p+1}$ isometries, which reduce to chiral/dual theories in $D=2p$ (with odd/even $p$) dimensions. 
 As a [proof of principle](https://inspirehep.net/literature/2873371), in work with Karapet Mkrtchyan, Euihun Joung, and Junggi Yoon, we study the minimal case of $p=1$ for arbitrary spin.
 This reduces higher-spin gravity in $\text{AdS}_3$ to higher-order chiral (or shift-symmetric) scalars in $D=2$.
 We use the covariant boundary reduction procedure to find covariant higher-spin generalisations to the Floreanini-Jackiw and Alekseev-Shatashvili actions.
 
-In upcoming work with Karapet Mkrtchyan and Euihun Joung, we generalise this to spin-2 theories in $D=2p$ dimensions. 
-Of particular interest for this is the case $p=2$, which describes familiar linearised gravity in $D=4$.
-This provides a formulation of linearised gravity which exhibits manifest duality and covariance, which was previously thought not to be possible. 
+In [follow-up work](https://inspirehep.net/literature/3144764) with Karapet Mkrtchyan and Euihun Joung, we generalised this to the case of massless spin-2 in four dimensions.
+By realising the conformal symmetry as the isometry of a bulk $\text{AdS}_{5}$ spacetime, we were able to realise the massless spin-2 field as edge modes of a five-dimensional topological field theory. 
+The covariant boundary reduction procedure then leads to a covariant action with manifest duality for linearised gravity in four dimensions, which was previously thought not to be possible. 
+In upcoming work, we are planning to generalise this to arbitrary dimensions and arbitary spin.
 
 I've had the chance to give talks about this on the following occasions:
 - HEP Seminar, National Yang Ming Chiao Tung University, Sep 2025
@@ -135,3 +139,8 @@ In particular, we point out that the theories admit mode expansions reminiscent 
 We further leverage holomorphicity of the currents to show that the full set of symmetries of theories with $k>0$ is captured by a chiral algebra contained in the one of the massless theory. 
 This allows us to identify integrable deformations for $k \leq 2$. 
 We finally point out that a lack of integrable deformations for $k>2$ is a consequence of a known conjecture. 
+
+I've had the chance to give talks about this on the following occasions:
+- Gravity2026, Institute of Basic Sciences Daejeon, Apr 2026
+
+For the most recent slides on this, see [here](../files/talks/holomorphicity_slides.pdf).
