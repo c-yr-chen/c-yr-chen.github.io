@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Calvin Yi-Ren Chen"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Calvin Yi-Ren Chen" 
 description              : &description "Theoretical Physicist"
