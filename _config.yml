@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Calvin Yi-Ren Chen" 
+name                     : "" 
 description              : &description "Theoretical Physicist"
 url                      : https://c-yr-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
