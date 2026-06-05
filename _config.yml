@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : ""
+title                    : "Calvin YR Chen"
 title_separator          : "-"
-name                     : "" 
-description              : &description "Theoretical Physicist"
+name                     : "Calvin YR Chen" 
+description              : "Theoretical Physicist"
 url                      : https://c-yr-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "c-yr-chen/c-yr-chen.github.io"
