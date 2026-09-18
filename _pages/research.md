@@ -126,11 +126,11 @@ For the most recent slides on this, see [here](../files/talks/democracy_slides.p
 It has long been recognised that $2d$ theories provide valuable testing grounds in which we can gain intuition for the dynamics of QFTs. 
 Singletons are no exception: The $2d$ theories share many interesting features of their higher-dimensional relatives (such as $4d$ gauge theories), while being much more tractable. 
 This positions them as extraordinary toy models for the full family of singletons.
-My starting point for this research direction was the higher-order chiral scalar field obtained from the reduction of $\text{AdS}_{3}$ higher-spin gravity to the boundary. 
-Remarkably, just as a massless scalar field decomposes into two ordinary chiral halves, two higher-order chiral scalar fields combine into the discrete series scalar fields on $\text{(A)dS}_{2}$.
+My starting point for this research direction was the higher-order chiral scalar field obtained from the reduction of $`\text{AdS}_{3}`$ higher-spin gravity to the boundary. 
+Remarkably, just as a massless scalar field decomposes into two ordinary chiral halves, two higher-order chiral scalar fields combine into the discrete series scalar fields on $`\text{(A)dS}_{2}`$.
 These are massive scalar fields with masses specially tuned to integer scaling dimensions $\Delta = k+1$, which enjoy order-$k$ shift symmetries.
 
-In [recent work](https://inspirehep.net/literature/3112953) with L. W. Lindwasser and M. Porrati, we study the far-reaching consequences of these extended shift symmetries admitting chiral splitting (holomorphic factorisation).
+In [recent work](https://inspirehep.net/literature/3112953) with L. W. Lindwasser and M. Porrati, we study the consequences of these theories admitting chiral splitting (holomorphic factorisation).
 It is well-known that conformal transformations are closely related to holomorphicity in 2d. 
 In particular, holomorphic operators such as the stress tensor in a conformal field theory can be used to show holomorphic splitting of the classical phase space of solutions. 
 The prototypical example of this is the massless scalar field $\phi$ in two-dimensional flat space.
