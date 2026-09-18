@@ -65,10 +65,10 @@ We resolve the underlying tension by clarifying that the apparent UV sensitivity
 This is demonstrated by an example of a partial UV completion.
 We also discuss a speculative bound on EFT Wilson coefficients linked to the Weak Gravity Conjecture.
 
-Precisely how the deformations behave near the horizon is determined by the $\text{AdS}_ {2}$ scaling dimension of the perturbations within the near-horizon geometry of the extremal black holes.
+Precisely how the deformations behave near the horizon is determined by the $`\text{AdS}_ {2}`$ scaling dimension of the perturbations within the near-horizon geometry of the extremal black holes.
 It turns out this quantity is also relevant for the severity of a classical instability of extremal black holes known as the Aretakis instability.
 In particular, it determines the number of transverse derivatives needed to see non-decay/blow-up of perturbations on the background geometry. 
-In [follow-up work](https://inspirehep.net/literature/2948339) with Á. D. Kovács, I argue that extremal black branes (extended versions of black holes in higher dimensions with non-compact horizons) also suffer from the Aretakis instability, making explicit use of the symmetries of the near-horizon geometry $\text{AdS}_{p+2}\times S^{D-p-2}$. 
+In [follow-up work](https://inspirehep.net/literature/2948339) with Á. D. Kovács, I argue that extremal black branes (extended versions of black holes in higher dimensions with non-compact horizons) also suffer from the Aretakis instability, making explicit use of the symmetries of the near-horizon geometry $`\text{AdS}_{p+2}\times S^{D-p-2}`$. 
 To demonstrate that this class of extremal black branes suffers from this instability even in the absence of additional fields, we compute the Kaluza&ndash;Klein spectrum of gravitational and form field perturbations in the near-horizon geometry.
 We find that these indeed trigger the Aretakis instability, although this is weaker than for the extremal black branes.
 
@@ -106,13 +106,13 @@ In my recent work, I established that a natural covariant description of such th
 This relies on the special property of singletons that they are irreducible representations of the conformal algebra $\mathfrak{so}(2,2p)$ &mdash; in other words, they have hidden conformal symmetry.
 
 As a [proof of principle](https://inspirehep.net/literature/2873371), in work with K. Mkrtchyan, E. Joung, and J. Yoon, we study the minimal case of $p=1$ for arbitrary spin $s$.
-To this end, we reduce higher-spin gravity in $\text{AdS}_3$ to the boundary. 
+To this end, we reduce higher-spin gravity in $`\text{AdS}_3`$ to the boundary. 
 This results in higher-order generalisations of the ordinary Floreanini&ndash;Jackiw chiral scalar in $D=2$.
 Using a covariant boundary reduction procedure, we also provide a covariant completion to this.
 
-In [follow-up work](https://inspirehep.net/literature/3144764) with K. Mkrtchyan and E. Joung, we generalised this to the case of massless spin-2 in 4d.
-By realising the hidden conformal symmetry geometrically using an auxiliary bulk $\text{AdS}_{5}$ spacetime, we were able to realise the massless spin-2 field as edge modes of a 5d topological field theory. 
-The covariant boundary reduction procedure then leads to a covariant action with manifest duality for 4d linearised gravity, which was previously thought not to be possible. 
+In [follow-up work](https://inspirehep.net/literature/3144764) with K. Mkrtchyan and E. Joung, we generalised this to the case of massless spin-2 in $4d$.
+By realising the hidden conformal symmetry geometrically using an auxiliary bulk $`\text{AdS}_{5}`$ spacetime, we were able to realise the massless spin-2 field as edge modes of a $5d$ topological field theory. 
+The covariant boundary reduction procedure then leads to a covariant action with manifest duality for $4d$ linearised gravity, which was previously thought not to be possible. 
 In upcoming work, we will generalise this to arbitrary dimensions and arbitary spin.
 
 I've had the chance to give talks about this on the following occasions:
@@ -131,20 +131,20 @@ Remarkably, just as a massless scalar field decomposes into two ordinary chiral 
 These are massive scalar fields with masses specially tuned to integer scaling dimensions $\Delta = k+1$, which enjoy order-$k$ shift symmetries.
 
 In [recent work](https://inspirehep.net/literature/3112953) with L. W. Lindwasser and M. Porrati, we study the consequences of these theories admitting chiral splitting (holomorphic factorisation).
-It is well-known that conformal transformations are closely related to holomorphicity in 2d. 
+It is well-known that conformal transformations are closely related to holomorphicity in $2d$. 
 In particular, holomorphic operators such as the stress tensor in a conformal field theory can be used to show holomorphic splitting of the classical phase space of solutions. 
-The prototypical example of this is the massless scalar field $\phi$ in two-dimensional flat space.
-This possesses a pair of (anti-)holomorphic currents $j = \partial \phi$ and $\overline{j} = \overline{\partial}\phi$, which generate shifts of the scalar field by constants.
+The prototypical example of this is the massless scalar field $\phi$ in $2d$ flat space.
+This possesses a pair of (anti-)holomorphic currents $j = \partial \phi$ and $\overline{j} = \overline{\partial}\phi$, which generate shifts of $\phi$ by constants.
 In Lorentzian signature, the decomposition of the phase space is related to the familiar statement that the field in question is made up of non-interacting left- and right-moving waves propagating on the light cone.
-Conversely, it is surprising that massive scalar fields in $\text{(A)dS}_{2}$ could admit the same holomorphic splitting.
+It is therefore surprising that massive scalar fields in $`\text{(A)dS}_{2}`$ could admit the same holomorphic splitting.
 
 We explore the consequences of this to describe their quantisation and subsets of their linear and non-linear symmetries.
-In particular, we point out that the theories admit mode expansions reminiscent of standard $2d$ CFTs in complex coordinates, with which we are able to construct all operators implementing linear symmetries, including global conformal transformations and Virasoro symmetry. 
+In particular, we point out that the theories admit mode expansions reminiscent of standard $2d$ conformal field theories in complex coordinates, with which we are able to construct all operators implementing linear symmetries, including global conformal transformations and Virasoro symmetry. 
 We further leverage holomorphicity of the currents to show that the full set of symmetries of theories with $k>0$ is captured by a chiral algebra contained in the one of the massless theory. 
 This allows us to identify integrable deformations for $k \leq 2$. 
 We finally point out that a lack of integrable deformations for $k>2$ is a consequence of a known conjecture. 
 
-These features are strikingly reminiscent of the massless scalar field in flat space and suggest that these theories may provide unexpected generalisations thereof in the context of 2d CFT and string theory. 
+These features are strikingly reminiscent of the massless scalar field in flat space and suggest that these theories may provide unexpected generalisations thereof in the context of $2d$ conformal field theory and string theory. 
 They may also be of interest beyond high-energy theory, given the central role such structures play in condensed matter systems such as the quantum Hall liquid.
 
  I've had the chance to give talks about this on the following occasions:
