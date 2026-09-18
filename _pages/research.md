@@ -99,7 +99,7 @@ Singleton theories form a two-parameter family of theories labelled by their spi
 In particular, they are characterised by gauge-invariant field strengths (or curvatures) which obey first-order (twisted) self-duality relations and transform in representations corresponding to rectangular Young diagrams with height $p$ and width $s$. 
 When $p$ is odd, the Lorentzian Hodge dual squares to $+1$, permitting real self- or anti-self-duality conditions, so singletons describe chiral degrees of freedom. 
 When $p$ is even, the Lorentzian Hodge dual squares to $–1$, and duality is instead expressed as a twisted self-duality relation between two copies of the field strength &mdash; in 4d, this encodes EM duality. 
-From this perspective, the singleton family unifies four-dimensional massless spin-s (Fronsdal) gauge fields (p=2), self-dual differential forms (s=1), the six-dimensional exotic graviton (s=2, p=3), and more general mixed-symmetry fields.
+From this perspective, the singleton family unifies four-dimensional massless spin-$s$ (Fronsdal) gauge fields ($p=2$), self-dual differential forms ($s=1$), the six-dimensional exotic graviton ($s=2$, $p=3$), and more general mixed-symmetry fields.
 
 These theories have in common that their action descriptions typically come at the expense of manifest covariance.
 In my recent work, I established that a natural covariant description of such theories comes from topological field theory in one higher dimension.
