@@ -126,7 +126,7 @@ For the most recent slides on this, see [here](../files/talks/democracy_slides.p
 It has long been recognised that $2d$ theories provide valuable testing grounds in which we can gain intuition for the dynamics of QFTs. 
 Singletons are no exception: The $2d$ theories share many interesting features of their higher-dimensional relatives (such as $4d$ gauge theories), while being much more tractable. 
 This positions them as extraordinary toy models for the full family of singletons.
-My starting point for this research direction was the higher-order chiral scalar field obtained from the reduction of $\text{AdS}_{3}$ higher-spin gravity to the boundary. 
+My starting point for this research direction was the higher-order chiral scalar field obtained from the reduction of $\text{AdS}\_{3}$ higher-spin gravity to the boundary. 
 Remarkably, just as a massless scalar field decomposes into two ordinary chiral halves, two higher-order chiral scalar fields combine into the discrete series scalar fields on $\text{(A)dS}_{2}$.
 These are massive scalar fields with masses specially tuned to integer scaling dimensions $\Delta = k+1$, which enjoy order-$k$ shift symmetries.
 
