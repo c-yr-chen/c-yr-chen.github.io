@@ -123,29 +123,30 @@ For the most recent slides on this, see [here](../files/talks/democracy_slides.p
 
 ### 2d toy models
 
-It has long been recognised that the world of 2d theories is a valuable playground in which we can gain intuition for the dynamics of QFTs. 
-Singletons are not exempt from this: Many features of higher-dimensional singletons, such as massless gauge theories in 4d, are already present for the analogous singletons in 2d. 
-This positions 2d chiral theories as extraordinary toy models for the former.
+It has long been recognised that 2d theories provide valuable testing grounds in which we can gain intuition for the dynamics of QFTs. 
+Singletons are not exempt from this: 2d singletons share many interesting features of higher-dimensional singletons (such as 4d gauge theories), while being much more tractable. 
+This positions them as extraordinary toy models for the full family of singletons.
+My starting point for this research direction was the higher-order chiral scalar field obtained from the reduction of higher-spin gravity in AdS3 to the boundary. Remarkably, just as a massless scalar field decomposes into two ordinary chiral halves, two higher-order chiral scalar fields combine into the discrete series scalar fields on $\text{(A)dS}_{2}$.
+These are massive scalar fields with masses specially tuned to integer scaling dimensions $\Delta = k+1$, which enjoy order-$k$ shift symmetries.
 
-######### GOT TO HERE #########
-It is well-known that conformal transformations are closely related to holomorphicity in two dimensions. 
-In particular, holomorphic operators such as the stress tensor in a CFT can be used to show holomorphic splitting of the classical phase space of solutions. 
+In [recent work](https://inspirehep.net/literature/3112953) with L. W. Lindwasser and M. Porrati, we study the far-reaching consequences of these extended shift symmetries admitting chiral splitting (holomorphic factorisation).
+It is well-known that conformal transformations are closely related to holomorphicity in 2d. 
+In particular, holomorphic operators such as the stress tensor in a conformal field theory can be used to show holomorphic splitting of the classical phase space of solutions. 
 The prototypical example of this is the massless scalar field $\phi$ in two-dimensional flat space.
 This possesses a pair of (anti-)holomorphic currents $j = \partial \phi$ and $\overline{j} = \overline{\partial}\phi$, which generate shifts of the scalar field by constants.
 In Lorentzian signature, the decomposition of the phase space is related to the familiar statement that the field in question is made up of non-interacting left- and right-moving waves propagating on the light cone.
-One might hence expect that, as soon as the theory is deformed by a mass term, the nice properties of the massless theory described above disappear. 
+Conversely, it is surprising that massive scalar fields in $\text{(A)dS}_{2}$ could admit the same holomorphic splitting.
 
-In [recent work](https://inspirehep.net/literature/3112953) with Lukas W. Lindwasser and Massimo Porrati, I discuss the two-dimensional singletons studied above as a counter-example to this.
-In particular, these are massive scalar fields in $\text{(A)dS}_{2}$ with integer scaling dimensions $\Delta = k+1$, which are marked by the existence of a pair of (anti-)holomorphic higher-spin currents which generate extended shift symmetries. 
 We explore the consequences of this to describe their quantisation and subsets of their linear and non-linear symmetries.
-In particular, we point out that the theories admit mode expansions reminiscent of standard $2d$ CFTs in complex coordinates, with which we are able to construct operators implementing global conformal transformations and Virasoro symmetry. 
+In particular, we point out that the theories admit mode expansions reminiscent of standard $2d$ CFTs in complex coordinates, with which we are able to construct all operators implementing linear symmetries, including global conformal transformations and Virasoro symmetry. 
 We further leverage holomorphicity of the currents to show that the full set of symmetries of theories with $k>0$ is captured by a chiral algebra contained in the one of the massless theory. 
 This allows us to identify integrable deformations for $k \leq 2$. 
 We finally point out that a lack of integrable deformations for $k>2$ is a consequence of a known conjecture. 
 
+These features are strikingly reminiscent of the massless scalar field in flat space and suggest that these theories may provide unexpected generalisations thereof in the context of 2d CFT and string theory. 
+They may also be of interest beyond high-energy theory, given the central role such structures play in condensed matter systems such as the quantum Hall liquid.
 
-
-I've had the chance to give talks about this on the following occasions:
+ I've had the chance to give talks about this on the following occasions:
 - Gravity2026, Institute of Basic Sciences Daejeon, Apr 2026
 
 For the most recent slides on this, see [here](../files/talks/holomorphicity_slides.pdf).
